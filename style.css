@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#search-area {
+    margin-bottom: 20px;
+}
+
+#pokemonDisplay {
+    margin-top: 20px;
+}
+
+#pokemonDisplay img {
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#moves select {
+    margin: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+#team {
+    margin-top: 20px;
+}
+
+.team-member {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
